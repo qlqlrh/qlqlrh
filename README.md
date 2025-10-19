@@ -4,17 +4,33 @@
 ## 👋 About
 - 안녕하세요, 직접 겪은 문제를 능동적으로 해결하고자 하는 백엔드 개발자 김동인입니다.
 - print 함수도 몰랐던 1학년부터 시작해 SW중심대학 마일스톤 1등 장학생이 되기까지, 끊임없이 도전하며 성장해왔습니다.
-- 이커머스(`E-commerce`)와 실시간 시스템 최적화, AI/RAG 기반 서비스 개발에 관심이 많으며, 사용자 경험을 개선하는 기술적 솔루션을 고민합니다.
+- 실시간 시스템 지연 최소화와 대용량 트래픽 처리 경험이 있으며, 사용자 경험 개선을 위한 기술적 솔루션을 고민합니다.
 
 
 ## 🧰 Tech
+**Backend**
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-OpenJDK-3a75b0?logo=openjdk&logoColor=white">
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
+  <img alt="Spring Data JPA" src="https://img.shields.io/badge/JPA-6DB33F?logo=spring&logoColor=white">
+  <img alt="QueryDSL" src="https://img.shields.io/badge/QueryDSL-0769AD?logo=java&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+  <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?logo=socketdotio&logoColor=white">
 </p>
 
+**Database & Cache**
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
+</p>
+
+**Infra & Tools**
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white">
+</p>
 
 
 ## 🚀 프로젝트
@@ -39,8 +55,8 @@
 ## 🏫 경력(학교 생활)
 - 2022 정보컴퓨터공학부 학생회 **SE;LON(세론) 1기 홍보부장**
 - 2023 정보컴퓨터공학부 학생회 **SE;LON(세론) 2기 기획부원**
-- 2024-2, 2025-1 정보컴퓨터공학부 **IT 서비스 출시 동아리 [APPTIVE](https://apptive.notion.site/?source=copy_link) 회장**
-- 2025.01 ~ **[소프트스퀘어드](https://gridge.co.kr/) 백엔드 인턴** (이커머스 템플릿 MVP 개발, 스웨거 자동화 에이전트 개발)
+- 2024-2, 2025-1 정보컴퓨터공학부 **IT 서비스 출시 동아리 [APPTIVE](https://apptive.notion.site/?source=copy_link) 회장** `(기획·디자인·개발 전 파트 협업 총괄)`
+- 2025.01 ~ **[소프트스퀘어드](https://gridge.co.kr/) 백엔드 인턴** `(이커머스 템플릿 MVP 개발, 스웨거 자동화 에이전트 개발)`
 
 
 ## 🏆 수상
